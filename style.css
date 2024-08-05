@@ -1,0 +1,25 @@
+body {
+    margin-left: 40%;
+    margin-top: 12%;
+}
+
+div {
+    color: black;
+    font-family: Arial, sans-serif;
+    width: 100px;
+    height: 100px;
+    padding: 10px; 
+}
+
+.box1 {
+    background-color: orange;
+    transform: translate(30px,10px);
+}
+.box2 {
+    background-color: green;
+    transform: rotate(30deg);    
+}
+.box3 {
+    background-color: yellow;
+    transform: skew(10deg,10deg);
+}
